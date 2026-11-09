@@ -1,3 +1,9 @@
+golang-github-danos-ifmgrd (1:1.7+elster1) unstable; urgency=medium
+
+  * Use the native Go toolchain for ARM64 builds while retaining the epoch.
+
+ -- Elster Package Maintainers <maintainers@elsterdrones.com>  Mon, 09 Nov 2026 15:52:00 +0000
+
 golang-github-danos-ifmgrd (1:1.7) unstable; urgency=medium
 
   [ Nicholas Brown ]

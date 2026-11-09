@@ -6,7 +6,7 @@ Build-Depends:
  dh-golang (>= 1.18),
  dh-vci,
  dh-yang,
- golang (>= 1.10),
+ golang:native,
  golang-github-danos-configd-client-dev,
  golang-github-danos-configd-rpc-dev,
  golang-github-danos-config-dev,
